@@ -31,5 +31,10 @@ and just type msbuild. It will automatically start building the sln files.
 When the build is finished  will have an executable file 'MiscreatedGeolocationKit.exe' 
 in the folder 'SurvivotronKit\SurvivotronKit\bin\Debug'.
 
+## Contact
+
+* Visit the [issues page](https://github.com/uyke/survivotronkit/issues) to report a bug, request a feature or send other kind of feedback.
+* Or send email to: uykemakana@gmail.com
+
 
 
