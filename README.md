@@ -1,6 +1,10 @@
 # Survivotron Kit
 
-A Windows application to be used as a companion of the Survivotron GPS (used in the Miscreated survival videogame).
+The Survivotron Kit is a Windows application to be used as a companion of the Survivotron GPS - an in-game 
+gadget of the Miscreated survival videogame [http://miscreatedgame.com]. 
+With this tool a Miscreated player can enter his/her Survivotron GPS data and find his/her location on the map. 
+Also a Miscreated server's administrator can enter a (X,Y) location from the damagelog server files and mark that 
+location on the map.
 
 
 ## How to build the executable file
