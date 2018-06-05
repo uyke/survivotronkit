@@ -8,7 +8,9 @@ location on the map.
 
 ## Binaries download
 
-See the [[Wiki's download page|downloads]]. 
+See the Wiki's download page:
+
+https://github.com/uyke/survivotronkit/wiki/downloads
 
 
 ## How to build the executable file
