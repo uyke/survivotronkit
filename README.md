@@ -6,6 +6,10 @@ With this tool a Miscreated player can enter his/her Survivotron GPS data and fi
 Also a Miscreated server's administrator can enter a (X,Y) location from the damagelog server files and mark that 
 location on the map.
 
+## Binaries download
+
+See the [[Wiki's download page|downloads]]. 
+
 
 ## How to build the executable file
 
